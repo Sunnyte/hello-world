@@ -1,3 +1,3 @@
 # hello-world
 just anthor respository
-Today is a sunny day
+Today is a sunny day.
